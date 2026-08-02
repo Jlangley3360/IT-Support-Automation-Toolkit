@@ -203,4 +203,4 @@ https://github.com/jlangley3360
 
 **LinkedIn**
 
-(Add your LinkedIn profile here)
+https://www.linkedin.com/in/joshua-langley-b9a12a240/
