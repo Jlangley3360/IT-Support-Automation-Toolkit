@@ -12,7 +12,7 @@ This project collects system health information, displays a detailed health repo
 
 Launch the toolkit and select the desired troubleshooting module.
 
-![Main Menu](images/main-menu.png)
+![Main Menu](main-menu.png)
 
 ---
 
@@ -20,7 +20,7 @@ Launch the toolkit and select the desired troubleshooting module.
 
 The toolkit gathers real-time system information and displays a detailed health report in the terminal.
 
-![Health Report](images/health-report.png)
+![Health Report](health-report.png)
 
 ---
 
@@ -28,7 +28,7 @@ The toolkit gathers real-time system information and displays a detailed health 
 
 Each health check automatically creates a timestamped report that can be reviewed later.
 
-![Generated Report](images/generated-report.png)
+![Generated Report](generated-report.png)
 
 ---
 
